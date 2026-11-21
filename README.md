@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ParaBank Automation Testing Project
 
 ## Project Overview
